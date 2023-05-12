@@ -24,7 +24,7 @@ const UserDetails = () => {
   console.log(stateValue);
   return (
     <div className="Collector">
-      {<pre>{JSON.stringify(stateValue).data}</pre>}
+      {/* {<pre>{JSON.stringify(stateValue).data}</pre>} */}
       <hr />
 
       <AccountCircleIcon />
