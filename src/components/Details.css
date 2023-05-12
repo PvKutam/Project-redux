@@ -1,0 +1,30 @@
+.Main {
+    display: flex;
+    align-items: center;
+    padding: 40px;
+    color: #4964DA;
+    align-items: left;
+    opacity: 1;
+  }
+  
+  .icon-account {
+    width: 24px;
+    height: 24px;
+  }
+  
+  .add-party {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+  }
+  
+  .icon-add {
+    width: 16px;
+    height: 16px;
+  }
+  
+  h5 {
+    margin-left: 5px;
+    color: #4964DA;
+  }
+  
